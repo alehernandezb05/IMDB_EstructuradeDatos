@@ -1,0 +1,13 @@
+400000,Temporada 1,2021,300000
+400001,Temporada 2,2024,300000
+400002,Libro 1: Agua,2005,300001
+400003,Libro 2: Tierra,2006,300001
+400004,Libro 3: Fuego,2008,300001
+400005,Temporada 1,2013,300002
+400006,Temporada 2,2017,300002
+400007,Temporada 3 Parte 1,2018,300002
+400008,Temporada 3 Parte 2,2019,300002
+400009,Temporada Final Parte 1,2020,300002
+400010,Temporada Final Parte 2,2022,300002
+400011,Temporada Final Capitulos Finales Parte 1,2023,300002
+400012,Temporada Final Capitulos Finales Parte 2,2023,300002

@@ -1,0 +1,147 @@
+500000,Bienvenido al terreno de juego,2021,42,1,400000
+500001,Algunos misterios es mejor no resolverlos,2021,42,2,400000
+500002,La violencia mínima necesaria para el cambio,2021,43,3,400000
+500003,¡Feliz Día del Progreso!,2021,43,4,400000
+500004,Todos quieren ser mis enemigos,2021,43,5,400000
+500005,Cando estas paredes se derrumben,2021,43,6,400000
+500006,El pequeño salvador,2021,43,7,400000
+500007,Aceite y Agua,2021,43,8,400000
+500008,El peso del liderazgo,2024,42,1,400001
+500009,Ver cómo se quema todo,2024,42,2,400001
+500010,Por fin pudiste pronunciar mi nombre,2024,43,3,400001
+500011,Pintemos la Ciudad de Azul,2024,43,4,400001
+500012,Ampollas y Cimientos,2024,43,5,400001
+500013,El Mensaje Oculto en el Patrón,2024,43,6,400001
+500014,Finjamos que es la Primera Vez,2024,43,7,400001
+500015,Matar es un Ciclo,2024,43,8,400001
+500016,La Mugre Bajo tus Uñas,2024,43,9,400001
+500017,El Niño en el Iceberg,2005,23,1,400002
+500018,El Avatar Regresa,2005,23,2,400002
+500019,El Templo del Aire del Sur,2005,24,3,400002
+500020,Las Guerreras Kyoshi,2005,23,4,400002
+500021,El Rey de Omashu,2005,24,5,400002
+500022,Prisioneros,2005,24,6,400002
+500023,Solsticio de Invierno: Parte 1: El Mundo de los Espiritus,2005,24,7,400002
+500024,Solsticio de Invierno: Parte 2: El Avatar Roku,2005,23,8,400002
+500025,El Pergamino de los Maestros Agua,2005,24,9,400002
+500026,Jet,2005,24,10,400002
+500027,El Cañon de la Muerte,2005,24,11,400002
+500028,Tormenta,2005,24,12,400002
+500029,El Espiritu Azul,2005,24,13,400002
+500030,Predicciones,2005,24,14,400002
+500031,Bato de la Tribu Agua,2005,24,15,400002
+500032,El Desertor,2005,24,16,400002
+500033,Los Planeadores,2005,24,17,400002
+500034,El Maestro del Agua Control,2005,24,18,400002
+500035,El Trono del Norte: Parte 1,2005,24,19,400002
+500036,El Trono del Norte: Parte 2,2005,25,20,400002
+500037,El Estado Avatar,2006,24,1,400003
+500038,La Cueva de los Dos Enamorados,2006,24,2,400003
+500039,El Regreso a Omashu,2006,24,3,400003
+500040,El Pantano,2006,24,4,400003
+500041,El Día del Avatar,2006,24,5,400003
+500042,La Bandida Ciega,2006,24,6,400003
+500043,Zuko Solitario,2006,24,7,400003
+500044,La Persecución,2006,24,8,400003
+500045,Trabajo Duro,2006,24,9,400003
+500046,La Biblioteca,2006,24,10,400003
+500047,El Desierto,2006,24,11,400003
+500048,Viaje a Ba Sing Se: Parte 1: El Paso de la Serpiente,2006,24,12,400003
+500049,Viaje a Ba Sing
+500050,2006,24,14,400003
+500051,Aventuras en Ba Sing Se,2006,24,15,400003
+500052,La Odisea de Appa,2006,24,16,400003
+500053,El Lago Laogai,2006,24,17,400003
+500054,El Rey de la Tierra,2006,24,18,400003
+500055,El Gurú,2006,24,19,400003
+500056,La Encrucijada del Destino,2006,24,20,400003
+500057,El Despertar,2008,24,1,400004
+500058,El Pañuelo en la Cabeza,2008,24,2,400004
+500059,La Dama Pintada,2008,24,3,400004
+500060,El Maestro de Sokka,2008,24,4,400004
+500061,La Playa,2008,24,5,400004
+500062,El Avatar y el Señor del Fuego,2008,24,6,400004
+500063,La Fugitiva,2008,24,7,400004
+500064,La Titiritera,2008,24,8,400004
+500065,Pesadillas y Fantasías,2008,24,9,400004
+500066,El Día del Sol Negro: Parte 1,2008,24,10,400004
+500067,El Día del Sol Negro: Parte 2,2008,24,11,400004
+500068,El Templo Aire del Oeste,2008,24,12,400004
+500069,La Roca Ardiente: Parte 1,2008,24,13,400004
+500070,La Roca Ardiente: Parte 2,2008,24,14,400004
+500071,Los Invasores del Sur,2008,24,15,400004
+500072,Los Actores de la Isla Ember,2008,24,16,400004
+500073,El Cometa de Sozin: Parte 1: El Rey Fénix,2008,24,17,400004
+500074,El Cometa de Sozin: Parte 2: Los Viejos Maestros,2008,24,18,400004
+500075,El Cometa de Sozin: Parte 3: En el Infierno,2008,24,19,400004
+500076,El Cometa de Sozin: Parte 4; El Avatar Aang,2008,24,20,400004
+500077,A ti, 2000 años más tarde,2013,24,1,400005
+500078,Aquel día,2013,24,2,400005
+500079,Una tenue luz en la desesperación,2013,24,3,400005
+500080,La noche de la desbandada,2013,24,4,400005
+500081,La primera batalla,2013,24,5,400005
+500082,El mundo que ella vio,2013,24,6,400005
+500083,Una pequeña hoja,2013,24,7,400005
+500084,Puedo oir un latido,2013,24,8,400005
+500085,¿Donde está el brazo izquierdo?,2013,24,9,400005
+500086,Respuesta,2013,24,10,400005
+500087,Ídolo,2013,24,11,400005
+500088,Herida,2013,24,12,400005
+500089,Deseos Primarios,2013,24,13,400005
+500090,Desde ese día,2013,24,13,5,400005
+500091,Sigo sin poder ver,2013,24,14,400005
+500092,Escuadrón de Operaciones Especiales,2013,24,15,400005
+500093,¿Y ahora que hacemos?,2013,24,16,400005
+500094,Titán Hembra,2013,24,17,400005
+500095,El bosque de los Titanes,2013,24,18,400005
+500096,Mordida,2013,24,19,400005
+500097,Erwin Smith,2013,24,20,400005
+500098,Golpe Aplastante,2013,24
+500049,Viaje a Ba Sing Se: Parte 2: El Taladro,2006,24,13,400003
+500050,La Ciudad de Muros y Secretos,2006,24,14,400003
+500051,Aventuras en Ba Sing Se,2006,24,15,400003
+500052,La Odisea de Appa,2006,24,16,400003
+500053,El Lago Laogai,2006,24,17,400003
+500054,El Rey de la Tierra,2006,24,18,400003
+500055,El Gurú,2006,24,19,400003
+500056,La Encrucijada del Destino,2006,24,20,400003
+500057,El Despertar,2008,24,1,400004
+500058,El Pañuelo en la Cabeza,2008,24,2,400004
+500059,La Dama Pintada,2008,24,3,400004
+500060,El Maestro de Sokka,2008,24,4,400004
+500061,La Playa,2008,24,5,400004
+500062,El Avatar y el Señor del Fuego,2008,24,6,400004
+500063,La Fugitiva,2008,24,7,400004
+500064,La Titiritera,2008,24,8,400004
+500065,Pesadillas y Fantasías,2008,24,9,400004
+500066,El Día del Sol Negro: Parte 1,2008,24,10,400004
+500067,El Día del Sol Negro: Parte 2,2008,24,11,400004
+500068,El Templo Aire del Oeste,2008,24,12,400004
+500069,La Roca Ardiente: Parte 1,2008,24,13,400004
+500070,La Roca Ardiente: Parte 2,2008,24,14,400004
+500071,Los Invasores del Sur,2008,24,15,400004
+500072,Los Actores de la Isla Ember,2008,24,16,400004
+500073,El Cometa de Sozin: Parte 1: El Rey Fénix,2008,24,17,400004
+500074,El Cometa de Sozin: Parte 2: Los Viejos Maestros,2008,24,18,400004
+500075,El Cometa de Sozin: Parte 3: En el Infierno,2008,24,19,400004
+500076,El Cometa de Sozin: Parte 4; El Avatar Aang,2008,24,20,400004
+500077,A ti, 2000 años más tarde,2013,24,1,400005
+500078,Aquel día,2013,24,2,400005
+500079,Una tenue luz en la desesperación,2013,24,3,400005
+500080,La noche de la desbandada,2013,24,4,400005
+500081,La primera batalla,2013,24,5,400005
+500082,El mundo que ella vio,2013,24,6,400005
+500083,Una pequeña hoja,2013,24,7,400005
+500084,Puedo oir un latido,2013,24,8,400005
+500085,¿Donde está el brazo izquierdo?,2013,24,9,400005
+500086,Respuesta,2013,24,10,400005
+500087,Ídolo,2013,24,11,400005
+500088,Herida,2013,24,12,400005
+500089,Deseos Primarios,2013,24,13,400005
+500090,Desde ese día,2013,24,13,5,400005
+500091,Sigo sin poder ver,2013,24,14,400005
+500092,Escuadrón de Operaciones Especiales,2013,24,15,400005
+500093,¿Y ahora que hacemos?,2013,24,16,400005
+500094,Titán Hembra,2013,24,17,400005
+500095,El bosque de los Titanes,2013,24,18,400005
+500096,Mordida,2013,24,19,400005

@@ -1,0 +1,25 @@
+Shingeki No Kyojin,10004,4.5
+Avatar: La Leyenda de Aang,10004,4.2
+Star Wars Episodio III: La Venganza de los Sith,10004,4.7
+El Libro de la vida,10004,2.8
+Moneyball,10004,4
+42,10004,4.1
+Arcane,10003,4.8
+Intensamente,10003,4.1
+The Avengers,10003,4.7
+Shingeki No Kyojin,10002,4.6
+Avatar: La Leyenda de Aang,10002,4.5
+Arcane,10002,4.2
+Terminator,10000,4.1
+Rocky,10000,4.5
+Interstellar,10000,4.3
+Batman: The Dark Knight,10000,4.9
+Viernes 13,10000,3.8
+Avatar: La Leyenda de Aang,10001,4.4
+Arcane,10001,4.3
+42,10001,4.2
+Star Wars Episodio III: La Venganza de los Sith,10001,4.6
+El Libro de la vida,10001,3.3
+The Avengers,10001,4.5
+Shingeki No Kyojin,10001,4.9
+Spider-Man,10001,4.8

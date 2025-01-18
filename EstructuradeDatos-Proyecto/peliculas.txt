@@ -1,0 +1,13 @@
+200012,Terminator,1984,Ciencia Ficción,108
+200011,Rocky,1976,Drama,101
+200010,SAW,2004,Terror,103
+200009,Interstellar,2014,Ciencia Ficción,169
+200008,Star Wars Episodio III: La Venganza de los Sith,2005,Ciencia Ficción,140
+200007,El Libro de la vida,2014,Animación,155
+200006,Moneyball,2011,Drama,133
+200005,Spider-Man,2022,Acción,121
+200004,Batman: The Dark Knight,2009,Acción,152
+200003,Intensamente,2015,Animación,94
+200002,42,2013,Drama,128
+200001,Viernes 13,1980,Terror,95
+200000,The Avengers,2012,Acción,143

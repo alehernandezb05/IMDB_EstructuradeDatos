@@ -1,0 +1,3 @@
+300000,Arcane,2021,Aventura
+300001,Avatar: La Leyenda de Aang,2005,Aventura
+300002,Shingeki No Kyojin,2013,Ciencia Ficcion
